@@ -4,7 +4,7 @@ import ASCII
 word_list = ["aardvark", "baboon", "camel"]
 # TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word.
 chosen_word = random.choice(word_list)
-print(chosen_word)
+# print(chosen_word)
 
 # TODO - Set lives of the user to guess
 lives = 6
